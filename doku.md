@@ -1,3 +1,6 @@
+## Problembeschreibung
+Viele Leute wissen nicht wie sie sich ihre Zeit und Aufgabe einteilen sollen. Deshalb möchte ich eine Applikation erstellen, die damit hilft. In der Applikation sollen Aufgaben und freie Zeit eingetragen werden. Diese Aufgaben werden dann immer auf Freie Zeitfenster verteilt, falls solche vorhanden sind. Wenn eine Aufgabe erledigt ist, kann die tatsächliche Zeit eingetragen werden. Bei jeder neuen Aufgabe und der dazugehörigen schätzung wird dann die durchschnittliche Abweichung der Schätzungen als Prozentsatz errechnet. Mit diesem Prozentsatz wird dann ein alternativ Vorschlag für die Zeit Einschätzung errechnet und gegeben. Der kann angenommen oder verworfen werden.
+
 ## Anforderungen
  Anforderung Nr. | Anforderung | Typ
 -------- | -------- | --------
@@ -9,7 +12,13 @@
 ## Testfälle
 Anforderung Nr. | Testfälle Nr. | Vorraussetzung | Input | Output
 -------- | -------- | --------|-------- | --------
-1, 4 | 1.1 | Programm gestartet | Aufgabe und geschätzte Zeit | möchtest du [Aufgabe] zu [Zeitpunkt] erledigen / keine Freie Zeit vorhanden
+1, 4 | 1.1 | Programm gestartet | Aufgabe und geschätzte Zeit | [Aufgabe] wurde am [Zeitpunkt] eingeteilt / keine Freie Zeit vorhanden
 2 | 2.1 | Programm gestartet | Freie Zeitfenster eintragen | Anzeige im Wochenplan
 3 | 3.1 | Aufgabe vorhanden und erledigt | tatsächliche Zeit | du hattest für [Aufgabe] [Zeitdifferenz] min. mehr/weniger als geplant.
 4 | 4.1 | Tatsächliche Zeit eingetragen | Neue Aufgabe | Du lagst durchschnittlich mit deiner Schätzung X % daneben, möchtest du diese Schätzung auf Y Minuten anpassen
+
+## Art und Vorgehensweise Prototyping
+Es Soll ein Funktionsprototyp erstellt werden, da ich herausfinden möchte, ob die Funktionen nach meinen Wünschen umsetzbar sind.
+Ich werde nach dem evolutionären Prototyping vorgehen. So kann ich die Akzeptanz der Grundfunktionen überprüfen und werde sehen wie sinvoll oder erwünscht die geplanten Nebenfunktionen sind.
+
+## Testdokumentation
