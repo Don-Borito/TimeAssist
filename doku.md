@@ -21,4 +21,15 @@ Anforderung Nr. | Testfälle Nr. | Vorraussetzung | Input | Output
 Es Soll ein Funktionsprototyp erstellt werden, da ich herausfinden möchte, ob die Funktionen nach meinen Wünschen umsetzbar sind.
 Ich werde nach dem evolutionären Prototyping vorgehen. So kann ich die Akzeptanz der Grundfunktionen überprüfen und werde sehen wie sinvoll oder erwünscht die geplanten Nebenfunktionen sind.
 
-## Testdokumentation
+# Testdokumentation
+Anforderung und Testfälle siehe oben.
+Testumgebung: Windows 11 PC mit nötiger Applikation und Datenbank.
+
+## Testprotokoll
+
+Testfälle Nr. | Resultat | Datum | Tester 
+-------- | -------- | --------|-------- 
+1.1 | OK | 25.03.2024 | Amon Burgherr 
+2.1 | Wochenplan ist nur eine Tabelle, reicht aber für Funktion | 25.03.2024 | Amon Burgherr 
+3.1 | OK | 25.03.2024 | Amon Burgherr 
+4.1 | OK | 25.03.2024 | Amon Burgherr 
