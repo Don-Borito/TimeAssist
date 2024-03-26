@@ -1,3 +1,6 @@
+# Time Assist
+Amon Burgherr, 18.03.24
+
 ## Problembeschreibung
 Viele Leute wissen nicht wie sie sich ihre Zeit und Aufgabe einteilen sollen. Deshalb möchte ich eine Applikation erstellen, die damit hilft. In der Applikation sollen Aufgaben und freie Zeit eingetragen werden. Diese Aufgaben werden dann immer auf Freie Zeitfenster verteilt, falls solche vorhanden sind. Wenn eine Aufgabe erledigt ist, kann die tatsächliche Zeit eingetragen werden. Bei jeder neuen Aufgabe und der dazugehörigen schätzung wird dann die durchschnittliche Abweichung der Schätzungen als Prozentsatz errechnet. Mit diesem Prozentsatz wird dann ein alternativ Vorschlag für die Zeit Einschätzung errechnet und gegeben. Der kann angenommen oder verworfen werden.
 
