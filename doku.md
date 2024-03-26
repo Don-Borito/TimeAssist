@@ -2,6 +2,7 @@
 Amon Burgherr, 18.03.24
 ## Inhaltsverzeichnis
 - Problembeschreibung
+- Art und Vorgehensweise Prototyping
 - Anforderungen
 - Testfälle
 - Testprotokoll
